@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+## Dave Wilson - Computational Designer
 
-You can use the [editor on GitHub](https://github.com/davewilsonxyz/davewilsonxyz.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+### Project 1 - Revit API Addin
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ut pharetra turpis. Mauris eu dui vel felis maximus rutrum. Quisque vel luctus justo. Fusce id consectetur ligula. Aenean bibendum lobortis pulvinar. Fusce feugiat elementum ipsum, quis ultricies massa laoreet nec. Nulla facilisi. Fusce rutrum lorem eget nunc egestas, at ullamcorper massa pulvinar. Nulla vitae pulvinar diam. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Phasellus mauris purus, fringilla sodales vestibulum posuere, pellentesque sed tellus. Sed fermentum nunc ac mi convallis, vitae tempor nulla molestie. Quisque maximus, nulla eget imperdiet interdum, lectus nulla dapibus nibh, id congue urna justo a tellus. Pellentesque justo mi, fringilla vel tempor vel, mattis a nisi.
 
-### Markdown
+Images and videos
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/davewilsonxyz/davewilsonxyz.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
